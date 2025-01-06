@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karaj Miglani
-- 👀 I’m interested in Data Science
+- 👀 I’m a Data Science 
 - 🌱 I’m currently learning machine learning & data science    
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me contact details on github
